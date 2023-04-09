@@ -2638,14 +2638,14 @@
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Far"		"Far"
 "L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Галактика"
 "[english]L4D360UI_FoundPublicGames_Filter_Distance_Worldwide"		"Galaxy"
-		"RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
+		"RDUI_SteamOverlay_Title"		"Оверлей Steam у Грі"
 		// Reactive Drop strings
 		"[english]RDUI_SteamOverlay_Title"		"Steam Overlay In-Game"
-		"RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
+		"RDUI_SteamOverlay_Text"		"Для використання цієї функції потрібно увімкнути Оверлей Steam у Грі.\nМожливо, вам доведеться перезапустити гру після ввімкнення цієї функції в Steam:\nSteam -> Бібліотека -> Правша кнопка миші по Alien Swarm: Reactive Drop -> Властивості... -> Увімкнути Оверлей Steam під час гри\n"
 		"[english]RDUI_SteamOverlay_Text"		"This feature requires Steam Overlay In-Game to be enabled.\nYou might need to restart the game after you enable this feature in Steam:\nSteam -> Library -> Right-click on Alien Swarm: Reactive Drop -> Properties... -> Enable the Steam Overlay while in-game\n"
-		"RDUI_WorkshopModeWarning_Title"		"Attention!"
+		"RDUI_WorkshopModeWarning_Title"		"Увага!"
 		"[english]RDUI_WorkshopModeWarning_Title"		"Attention!"
-		"RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 before doing this action"
+		"RDUI_WorkshopModeWarning_Text"		"Будь ласка, встановіть rd_workshop_allow_item_creation 1 перед виконанням цієї дії"
 		"[english]RDUI_WorkshopModeWarning_Text"		"Please set rd_workshop_allow_item_creation 1 before doing this action"
 }
 }
